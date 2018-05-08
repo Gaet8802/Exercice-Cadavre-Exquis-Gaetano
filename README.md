@@ -2,10 +2,10 @@
 
 ## j'ai demandé à la lune
 
-<<<<<<< HEAD
+si elle ne me connaissait pas
+
 ### si vous en avez l'envie
 
-"Sans fautes"
 =======
 ### si elle ne me connaissait pas
 
@@ -22,4 +22,4 @@ C'est pas une chanson de *Indochine* ça ?
 
 Je n'en ai aucune idée !
 
->>>>>>> developpement
+"sans fautes"
